@@ -1,0 +1,349 @@
+.container-fluid{
+    height: 150px;
+    background-image:  linear-gradient(rgba(0,0,0,0.20),rgba(0,0,0,0.20)), url(ping.JPG.png);
+    position: fixed;
+  
+    
+}
+.nav-item{
+    
+    margin-right: 30px; 
+    margin-top: 10px;
+    display: fixed;
+   
+}
+.container{
+   
+    width: 400px;
+    position: absolute;
+    height: 80px;
+    right: 30px;
+    margin-top: 60px;
+    margin-right: 10px;
+    font-family: serif;
+   font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+  }
+.image{
+    width: 200px;
+    position: absolute;
+    height: 80px;
+    left: 30px;
+    margin-top: 6%;
+   
+  }
+.head{
+   
+     margin: auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 5%;
+    padding-right: 20%;
+}
+
+    
+.textoption{
+    height: 550px;
+    width: 48%;
+    float: left;
+    left: 150px;
+}
+.welcome{
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 200px;
+    width: 34%;
+    float: left;
+    height: 15%;
+    color: aliceblue;
+    margin-left: 0%;
+    display: inline;
+}
+.rose{
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+    width: 8%;
+    justify-content: center;
+    margin-top: 270px;
+    height: 10%;
+    float: left;
+    color: aliceblue;
+    margin-left: 20%;
+}
+.collection{
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 350px;
+    width: 10%;
+    height: 10%;
+    float: left;
+    color: aliceblue;
+    margin-left: 28%;
+}
+
+.feshiont{
+    margin-top: 5%;
+    padding-top: 200px;
+    width: 45%;
+    display:inline-block;
+    height: 75%;
+    color: aliceblue;
+    right: 50px;
+    padding-left: 50px;
+    float: right;
+    
+    
+}
+.home{
+    height: 560px;
+    width: 100%;
+    border: 1px solid black;
+    background-image: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url(ksenia.jpg.jpg);
+    
+    
+}
+.tabout{
+    height: 560px;
+    width: 100%;
+    border: 1px solid black;
+    background-image: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url(Bphoto.jpg.jpg);
+    
+}
+.aboutus{
+    height: 98%;
+    width: 50%;
+    float: left;
+    
+}
+.fabout{
+    height: 98%;
+    width: 50%;
+    float: right;
+}
+.habout{
+    color: black;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 15%;
+    height: 15%;
+    width: 45%;
+    justify-content: center;
+    right: 10px auto;
+    margin-left: 20%;
+    font-family: serif;
+   font-weight: bold;
+    color: aliceblue;
+    
+}
+.aboutus h2{
+    margin-top: 8%;
+    height: 10%;
+    width: 45%;
+    margin-left: 25%;
+    font-family: serif;
+   font-weight: bold;
+    color: aliceblue;
+    
+    
+}
+.aboutus p{
+    margin-top: 10%;
+    height: 75%%;
+    width: 100%;
+    margin-left: 3%;
+    font-family: serif;
+   font-weight: bold;
+    color: aliceblue;
+    
+}
+.fabout ul{
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+    color: aliceblue;
+    margin-top: 8%;
+    
+}
+.proflirpart{
+    height: 560px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: linear-gradient(rgba(0,0,0,0.80),rgba(0,0,0,0.80));
+}
+.images{
+    height: 90%;
+    width: 50%;
+    float: right;
+    
+}
+
+
+.imagepart{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15%;
+   
+}
+.imagepart p{
+    margin-right: 10%;
+    margin-top: 0;
+    margin-left: 10%;
+   font-family: serif;
+   font-weight: bold;
+    color: black;
+    position: absolute;
+    width: 20%;
+   
+    
+    
+}
+.textp{
+    margin-top:10%;
+    height: 98%;
+    width: 45%;
+    font-family: serif;
+    font-weight: bold;
+    float: left;
+    margin-left: 2%;
+    
+    
+}
+.imagepart{
+    display: none;
+}
+.textp ul{
+    font-weight: 900;
+   
+}
+.textp h1{
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 0%;
+    
+}
+.next{
+    height: 10%;
+    width: 10%;
+    padding-left: 3%;
+    margin-right: 85%;
+    position: relative;
+    margin-top: -40%;
+}
+.previous{
+    height: 10%;
+    width: 10%;
+    margin-left: 85%;
+    padding-left: 3%;
+    position: relative;
+    margin-top: -5%;
+    }
+.contact{
+    height: 550px;
+    width: 100%;
+    border: 1px solid black;
+}
+.meda{
+    height: 95%;
+    width: 50%;
+    float: right;
+}
+.form{
+    height: 95%;
+    width: 50%;
+}
+.text{
+    display: inline;
+    margin: 10px;
+}
+.meda ul{
+    padding-top: 30%;
+    margin-left: 50%;
+    position: relative;
+    margin-top: 30%;
+    padding-left: 10%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.meda h2{
+    padding-left: 0%;
+    padding-top: 8%;
+    position: absolute;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15%;
+     
+}
+.meda label{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    height: 30%;
+    display: block;
+    padding-left: 15%;
+    padding-top: 20%;
+}
+.formaction{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 268px;
+}
+.formaction h1{
+   font-size: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 5px 0;
+     font-family: serif;
+   font-style: italic;
+    font-weight: bold;
+    color:black;
+}
+
+.formaction label{
+    font-size: 20px;
+    margin: 5px 0;
+     font-family: serif;
+   font-style: italic;
+    font-weight: bold;
+    color:black;
+}
+.formaction input{
+    font-size: 16px;
+    padding: 3px 2px;
+    width: 100%;
+    border-radius: 5px;
+    outline: none;
+     font-family: serif;
+   font-style: italic;
+    font-weight: bold;
+    
+    color: aliceblue;
+}
+.formaction button{
+    width: 50%;
+    margin: 10px 0;
+    background-color: #fff;
+    font-family: serif;
+   font-style: italic;
+    font-weight: bold;
+    color:black;
+}
+
+
